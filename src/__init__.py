@@ -1,1 +1,3 @@
-"""Educational HEDIS-style measure calculations on synthetic data."""
+"""HEDIS-style CDC measurement-year engine (synthetic portfolio)."""
+
+__version__ = "2.0.0"
